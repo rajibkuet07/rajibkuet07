@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, Welcome to the horizon!</h1>
 <h3 align="center">Full Stack PHP & JS Developer | Dreamer | Problem Solver | Passionate about programming</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajibkuet07" alt="rajibkuet07" /></a> </p>
-
 - 🌱 I’m currently learning **advance development Nest JS**
 
 - 💬 Ask me about **Node, Nest, React, Next, PHP, WP, GraphQL, Redux**
@@ -30,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibkuet07&show_icons=true&locale=en" alt="rajibkuet07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajibkuet07&" alt="rajibkuet07" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajibkuet07" alt="rajibkuet07" /></a> </p>
