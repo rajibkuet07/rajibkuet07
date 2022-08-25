@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, Welcome to the horizon!</h1>
 <h3 align="center">Full Stack PHP & JS Developer | Dreamer | Problem Solver | Passionate about programming</h3>
 
-- 🌱 I’m currently learning **advance development with Nest JS**
+- 🌱 I’m currently learning **Blokchain Development & advance development with Nest JS**
 
 - 💬 Ask me about **Node, Nest, React, Next, PHP, WP, GraphQL, Redux**
 
