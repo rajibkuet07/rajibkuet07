@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Welcome to the horizon!</h1>
-<h3 align="center">Full Stack PHP & JS Developer | Dreamer | Problem Solver | Passionate about programming</h3>
+<h3 align="center">Full Stack Developer | PHP, NodeJS, JS, TS | Problem Solver | Learning Blockchain</h3>
 
 - 🌱 I’m currently learning **Blokchain Development & advance development with Nest JS**
 
