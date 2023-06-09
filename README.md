@@ -5,7 +5,7 @@
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-cccc00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-A1A3C3?style=flat-square&logo=php&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=php&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
