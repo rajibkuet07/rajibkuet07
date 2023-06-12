@@ -23,4 +23,5 @@
 <h3>Get in touch with</h3>
 <p><a href="https://github.com/rajibkuet07" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/rajibkuet07" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/rajibkuet07" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.hackerrank.com/rajibkuet07?hr_r=1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-25B157?style=for-the-badge&logo=hackerrank&logoColor=white" /></a> <a href="https://leetcode.com/rajibkuet07/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-Leetcode-F09A1A?style=for-the-badge&logo=leetcode&logoColor=white" /></a></p>
 
-<a href="https://www.buymeacoffee.com/rajibkuet07" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Support Me" width="150"/></a>
+<!-- <a href="https://www.buymeacoffee.com/rajibkuet07" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Support Me" width="150"/></a>
+ -->
